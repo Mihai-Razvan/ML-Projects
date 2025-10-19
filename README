@@ -5,6 +5,10 @@ Each project has its own subfolder with `dataset` and `notebooks`.
 
 ## Projects
 
-1. **Project 1: Kaggle Dataset - Linear Regression**
-   - Dataset: https://www.kaggle.com/datasets/andonians/random-linear-regression/
-   - Notebooks: `Kaggle/Datasets/Linear Regression`
+1. Kaggle Dataset - Linear Regression
+   - Dataset: https://www.kaggle.com/datasets/andonians/random-linear-regression
+   - Notebooks: Kaggle/Datasets/Linear Regression
+
+2. Kaggle Dataset - Walmart Weakly Sales Prediction
+   - Dataset: https://www.kaggle.com/code/meech04/walmart-weakly-sales-prediction
+   - Notebooks: Kaggle/Datasets/Walmart Sales
