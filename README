@@ -12,3 +12,7 @@ Each project has its own subfolder with `dataset` and `notebooks`.
 2. Kaggle Dataset - Walmart Weakly Sales Prediction
    - Dataset: https://www.kaggle.com/code/meech04/walmart-weakly-sales-prediction
    - Notebooks: Kaggle/Datasets/Walmart Sales
+
+3. Iris Dataset - Classification (Multiclass)
+   - Dataset: https://www.kaggle.com/datasets/uciml/iris
+   - Notebooks: Kaggle/Datasets/Iris Species
