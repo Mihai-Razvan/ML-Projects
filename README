@@ -16,3 +16,7 @@ Each project has its own subfolder with `dataset` and `notebooks`.
 3. Iris Dataset - Classification (Multiclass)
    - Dataset: https://www.kaggle.com/datasets/uciml/iris
    - Notebooks: Kaggle/Datasets/Iris Species
+
+4. Titanic - Classification
+   - Dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
+   - Notebooks: Kaggle/Datasets/Titanic
