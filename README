@@ -17,6 +17,10 @@ Each project has its own subfolder with `dataset` and `notebooks`.
    - Dataset: https://www.kaggle.com/datasets/uciml/iris
    - Notebooks: Kaggle/Datasets/Iris Species
 
-4. Titanic - Classification
+4. Titanic Dataset - Classification
    - Dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
    - Notebooks: Kaggle/Datasets/Titanic
+
+5. Titanic Competition - Classification
+   - Dataset: https://www.kaggle.com/competitions/titanic/overview
+   - Notebooks: Kaggle/Competitions/Titanic
