@@ -13,14 +13,18 @@ Each project has its own subfolder with `dataset` and `notebooks`.
    - Dataset: https://www.kaggle.com/code/meech04/walmart-weakly-sales-prediction
    - Notebooks: Kaggle/Datasets/Walmart Sales
 
-3. Iris Dataset - Classification (Multiclass)
+3. Kaggle Dataset - Iris Dataset
    - Dataset: https://www.kaggle.com/datasets/uciml/iris
    - Notebooks: Kaggle/Datasets/Iris Species
 
-4. Titanic Dataset - Classification
+4. Kaggle Dataset - Titanic Dataset
    - Dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
    - Notebooks: Kaggle/Datasets/Titanic
 
-5. Titanic Competition - Classification
+5. Kaggle Dataset - Titanic Competition
    - Dataset: https://www.kaggle.com/competitions/titanic/overview
    - Notebooks: Kaggle/Competitions/Titanic
+
+6. Kaggle Dataset - Predict Student Test Scores
+   - Dataset: https://www.kaggle.com/competitions/playground-series-s6e1/overview
+   - Notebooks: Kaggle/Competitions/Predict Student Test Scores
