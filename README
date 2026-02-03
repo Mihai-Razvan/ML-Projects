@@ -21,10 +21,14 @@ Each project has its own subfolder with `dataset` and `notebooks`.
    - Dataset: https://www.kaggle.com/datasets/yasserh/titanic-dataset
    - Notebooks: Kaggle/Datasets/Titanic
 
-5. Kaggle Dataset - Titanic Competition
+5. Kaggle Competition - Titanic Competition
    - Dataset: https://www.kaggle.com/competitions/titanic/overview
    - Notebooks: Kaggle/Competitions/Titanic
 
-6. Kaggle Dataset - Predict Student Test Scores
+6. Kaggle Competition - Predict Student Test Scores
    - Dataset: https://www.kaggle.com/competitions/playground-series-s6e1/overview
    - Notebooks: Kaggle/Competitions/Predict Student Test Scores
+
+7. Kaggle Competition - Predicting Heart Disease
+   - Dataset: https://www.kaggle.com/competitions/playground-series-s6e2/overview
+   - Notebooks: Kaggle/Competitions/Predicting Heart Disease
